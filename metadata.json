@@ -1,0 +1,8 @@
+{
+  "name": "أ.د. محمد حسام الدين إسماعيل | الموقع الأكاديمي",
+  "description": "الموقع الأكاديمي الرسمي للأستاذ الدكتور محمد حسام الدين إسماعيل، رئيس قسم الصحافة بكلية الإعلام جامعة القاهرة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
